@@ -3,8 +3,7 @@ title: C 语言 X-Macros 重用技巧
 created_date: 2024-01-06 23:39:36
 tags:
   - 编程
-dg-publish: true
-dg-permalink: C_X-Macro
+permalink: x-macro-usage
 ---
 
 [X-Macros](https://en.wikipedia.org/wiki/X_macro) 是通过宏定义的方式预设来实现动态编程的效果，我主要是用于在创建一些数组时能够像 Python 中的字典一样，能够直接对应好位置 (下标)。

@@ -5,8 +5,7 @@ aliases:
 created_date: 2024-01-06 23:14:25
 tags:
   - 经验
-dg-publish: true
-dg-permalink: lorawan_wiki_journey
+permalink: lorawan-wiki-journey
 ---
 
 12 月 15 日晚上固件发布，16-20 日为团建，21-22，25-27 这 5 天都是懵懵的，直到 28 号在上级的教导下终于有点可控的感觉。
