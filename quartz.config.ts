@@ -9,15 +9,15 @@ import * as Plugin from "./quartz/plugins"
 const config: QuartzConfig = {
   configuration: {
     pageTitle: "🤓Spencer's Cyber Space",
-    pageTitleSuffix: "",
+    pageTitleSuffix: " - Spencer",
     enableSPA: true,
     enablePopovers: true,
     analytics: {
       provider: "plausible",
     },
-    locale: "en-US",
+    locale: "zh-CN",
     baseUrl: "blog.spenyan.com",
-    ignorePatterns: ["private", "templates", ".obsidian"],
+    ignorePatterns: ["private", "templates", ".obsidian", "memos"],
     defaultDateType: "created",
     theme: {
       fontOrigin: "googleFonts",

@@ -4,7 +4,7 @@ date: 2021-08-15
 tags:
   - 随想
   - 健身
-permalink: fitness-attracts
+permalink: fitness-drama
 ---
 ![[statement/免责说明#^4299da]]
 
