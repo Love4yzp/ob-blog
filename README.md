@@ -1,18 +1,3 @@
-# Quartz v4
+# About Spencer's blog
 
-> “[One] who works with the door open gets all kinds of interruptions, but [they] also occasionally gets clues as to what the world is and what might be important.” — Richard Hamming
-
-Quartz is a set of tools that helps you publish your [digital garden](https://jzhao.xyz/posts/networked-thought) and notes as a website for free.
-Quartz v4 features a from-the-ground rewrite focusing on end-user extensibility and ease-of-use.
-
-🔗 Read the documentation and get started: https://quartz.jzhao.xyz/
-
-[Join the Discord Community](https://discord.gg/cRFFHYye7t)
-
-## Sponsors
-
-<p align="center">
-  <a href="https://github.com/sponsors/jackyzha0">
-    <img src="https://cdn.jsdelivr.net/gh/jackyzha0/jackyzha0/sponsorkit/sponsors.svg" />
-  </a>
-</p>
+Spencer is eager to involves bringing innovative ideas to life and love. He is a self-motivated who is always looking for new ways to improve and grow. He is passionate about technology and enjoys learning new things. He is also a team player and enjoys working with others to achieve common goals. He is a hard worker and always strives to do his best. He is excited to continue learning and growing in his career and is looking forward to the future.
