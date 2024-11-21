@@ -8,3 +8,4 @@ description: the start point
 > - 爱好摄影：记录瞬时的幸福，撰写他人回忆
 > - 喜欢折腾：工具为本，知识为之主观能动，搞钱
 
+-> 尝试做一个项目 [[Home|To have a project]].

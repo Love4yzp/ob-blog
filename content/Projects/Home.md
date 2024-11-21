@@ -1,5 +1,6 @@
 ---
-title: 项目前的定位
+title: Projects Overview
+date: 2024-11-21
 ---
 应用场景：[[Smart Home|智能家居]]、工业自动化、机器人
 
