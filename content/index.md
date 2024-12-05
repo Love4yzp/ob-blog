@@ -1,6 +1,7 @@
 ---
 title: Home
 description: the start point
+date: 2024-11-01
 ---
 > [!cite] About
 >
@@ -10,9 +11,9 @@ description: the start point
 
 嗨👋,  我是 Spencer，应用工程师@`Seeed Studio`.
 
-在工作中，我是 Kevin Yang 的忠实粉丝，是 Jessie, Critic, Allen, Carla, Evelyn 的忠实伙伴，也是吱吱、Chunchun 的业余打手。
+在工作中，我是 Kevin Yang 的忠实粉丝，是 Jessie, Critic, Allen, Carla 的忠实伙伴，也是吱吱、Chunchun 的业余打手。
 
-目前正在不断地学习、积累经验去接触智能家居的内容、以及做 Demo -> [[Home|To have a project]].
+目前正在不断地学习、积累经验去接触智能家居的内容、以及做 Demo -> [[Projects/Home|To have a project]].
 
 除此之外，我也会时不时去健身房锻炼锻炼身体、业余学习摄影、和好友这些我喜欢的人吃吃喝喝、玩玩聊聊天。如下是我的🏋️力量参数（2022）：
 
