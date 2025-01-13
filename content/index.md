@@ -5,18 +5,12 @@ date: 2024-11-01
 ---
 > [!cite] About
 >
-> - 热爱健身：追崇体现基因的力量
-> - 爱好摄影：记录瞬时的幸福，撰写他人回忆
-> - 喜欢折腾：工具为本，知识为之主观能动，搞钱
+> - 热爱健身：用汗水雕刻完美身材，让基因散发光芒 💪
+> - 爱好摄影：捕捉生活的精彩瞬间，为他人绘制美好回忆 📸
+> - 喜欢折腾：工具在手天下我有，知识加持走遍天下 🛠️
 
-嗨👋,  我是 Spencer，应用工程师@`Seeed Studio`.
+Hi 👋, I'm Spencer Yan! I work as a Developer Advocate and Solution Evangelist at [Seeed Studio](https://www.seeedstudio.com/about-us/), helping developers create amazing tech solutions. 
 
-在工作中，我是 Kevin Yang 的忠实粉丝，是 Critic, Allen, Carla 的忠实伙伴，也是吱吱、Chunchun 的业余打手。
+When I'm not geeking out over tech, you'll find me lifting weights at the gym or capturing moments with my camera. Check out my [Instagram](https://www.instagram.com/yzp2077/) for some shots!
 
-目前正在不断地学习、积累经验去接触智能家居的内容、以及做 Demo -> [[Projects/Home|To have a project]].
-
-除此之外，我也会时不时去健身房锻炼锻炼身体、业余学习摄影、和好友这些我喜欢的人吃吃喝喝、玩玩聊聊天。如下是我的🏋️力量参数（2024）：
-
-```
-1RM：硬拉 140KG｜深蹲 125KG｜卧推 80KG｜高翻 72.5KG
-```
+Ready to dive in? Navigate to [[HOME]].
